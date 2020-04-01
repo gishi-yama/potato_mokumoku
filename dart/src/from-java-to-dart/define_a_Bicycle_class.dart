@@ -9,5 +9,5 @@ class Bicycle {
 
 // main() もしくは引数がほしければ main(List<String> args)
 // トップレベルに記載する。クラスの外側にコードをかける。
-void main() {
-}
+void main() {}
+

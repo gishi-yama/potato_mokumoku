@@ -5,8 +5,7 @@ class Bicycle {
 
   // コンストラクタのケツにはセミコロンが必要
   // thisとここで書くと、インスタンスフィールドのことを指す
-  Bicycle(this.cadence, this.speed, this.gear); 
-
+  Bicycle(this.cadence, this.speed, this.gear);
 }
 
 void main() {
